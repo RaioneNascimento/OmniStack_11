@@ -28,7 +28,7 @@
 
 ## 💻 Application Web
 
-[https://frontend-bethehero-app.herokuapp.com/](https://frontend-bethehero-app.herokuapp.com/)
+[Clique aqui](http://bethehero.raionenascimento.com.br/)
 
 ---
 ## 🚀 Quick start
