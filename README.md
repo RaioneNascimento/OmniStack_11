@@ -28,7 +28,7 @@
 
 ## 💻 Application Web
 
-[Clique aqui](http://bethehero.raionenascimento.com.br/)
+[Clique aqui](https://bethehero.raione.dev.br/)
 
 ---
 ## 🚀 Quick start
